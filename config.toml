@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://seena.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Test Blog"
+theme = "hugo-clarity-master"
